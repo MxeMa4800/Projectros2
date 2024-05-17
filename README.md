@@ -1,4 +1,4 @@
 # Projectros2
 
-/home/awanta/worksp/mobile_robot/src จากนั้นวางไฟล์ทั้งสองนี้ลงไป
+เข้าไปที่ /home/awanta/worksp/mobile_robot/src จากนั้นวางไฟล์ทั้งสองนี้ลงไป
  my_moblie_robot , ydlidar_ros_driver-master
